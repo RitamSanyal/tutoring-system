@@ -45,8 +45,8 @@ main {
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.200);
 }
 
-.col {
-    /* border: 2px solid black; */
+.row .col {
+    padding: 14px;
 }
 
 .col a {
